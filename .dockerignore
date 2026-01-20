@@ -1,0 +1,8 @@
+node_modules
+frontend/venv
+__pycache__
+*.pyc
+storage/uploads
+chroma_data
+.git
+.DS_Store
